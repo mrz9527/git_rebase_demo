@@ -6,9 +6,12 @@
 
 [branch-master][2][1]
 2_content
+<<<<<<< 3257f9b84422079e7867dc25af43a74e8739a153
 
 [branch_dev][3][1]
 3_content
 
+[branch-master][4][2]
+4_content
 
 #[][][]:第一个括号：表示分支，第二个括号：表示全局序号，用于表示时间点，第三个括号：表示当前分支序号
